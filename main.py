@@ -1,4 +1,8 @@
 import os
 
-print(os.path())
-print(os.getcwd())
+# getting the os directory and writing the functions
+
+print(os.get_blocking())
+print(os.name())
+
+print(os.listdir())
